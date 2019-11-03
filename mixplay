@@ -1,0 +1,89 @@
+[
+  {
+    "kind": "button",
+    "controlID": "epic gt",
+    "position": [
+      {
+        "size": "medium",
+        "width": 6,
+        "height": 4,
+        "x": 3,
+        "y": 1
+      },
+      {
+        "size": "large",
+        "width": 6,
+        "height": 4,
+        "x": 5,
+        "y": 2
+      }
+    ],
+    "cost": 100,
+    "text": "Epic Gt "
+  },
+  {
+    "kind": "button",
+    "controlID": "donations ",
+    "position": [
+      {
+        "size": "large",
+        "width": 6,
+        "height": 4,
+        "x": 5,
+        "y": 11
+      }
+    ],
+    "text": "donate",
+    "cost": 100,
+    "meta": {
+      "donate": {
+        "value": "donations are not required but are gratefully appreciated https://streamlabs.com/x2TrAsH4Pr0x"
+      }
+    }
+  },
+  {
+    "kind": "button",
+    "controlID": "THE BIG BUTTON",
+    "position": [
+      {
+        "size": "large",
+        "width": 19,
+        "height": 6,
+        "x": 30,
+        "y": 7
+      }
+    ],
+    "text": "THE BIG BUTTON",
+    "cost": 500000
+  },
+  {
+    "kind": "button",
+    "controlID": "lets get it ",
+    "position": [
+      {
+        "size": "large",
+        "width": 6,
+        "height": 4,
+        "x": 67,
+        "y": 2
+      }
+    ],
+    "text": "LETS GET IT!!!!!",
+    "cost": 10000
+  },
+  {
+    "kind": "button",
+    "controlID": "I drop any wepon of your choice",
+    "position": [
+      {
+        "size": "large",
+        "width": 6,
+        "height": 7,
+        "x": 67,
+        "y": 11
+      }
+    ],
+    "text": "I drop any wepon of your choice",
+    "cost": 50000
+  }
+]
